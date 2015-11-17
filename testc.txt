@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-testc54
-=======
-testc12
->>>>>>> refs/remotes/origin/teatb
+testcchange
